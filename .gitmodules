@@ -1,3 +1,6 @@
 [submodule "externals/fmt"]
 	path = externals/fmt
 	url = https://github.com/fmtlib/fmt
+[submodule "externals/mcl"]
+	path = externals/mcl
+	url = https://github.com/jarrodnorwell/mcl
